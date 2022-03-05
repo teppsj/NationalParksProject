@@ -1,0 +1,64 @@
+﻿X,Y,OBJECTID,UNIT_CODE,UNIT_NAME,STATE,REGION,GNIS_ID,UNIT_TYPE,CREATED_BY,PARKNAME,GlobalID
+-9225503.754,2832295.792,5,DRTO,Dry Tortugas National Park,FL,SE,307632,National Park,Lands,Dry Tortugas,fb27b01b-0d43-457e-880f-8e3dffb4c6e0
+-8991822.472,4002028.031,25,CONG,Congaree National Park,SC,SE,2035095,National Park,Lands,Congaree,fa97d729-1f04-47c7-80e1-77a7170cf9d8
+-12501145.25,4343345.172,34,GRCA,Grand Canyon National Park,AZ,IM,23866,National Park,Lands,Grand Canyon,a3082efd-bf9c-4c77-8a90-6cd43e1483d6
+-11766877.5,4918007.11,36,ROMO,Rocky Mountain National Park,CO,IM,204948,National Park,Lands,Rocky Mountain,c4434edb-94a1-4113-841b-d33964fe2b42
+-9080296.596,5043248.228,39,CUVA,Cuyahoga Valley National Park,OH,MW,1066328,National Park,Lands,Cuyahoga Valley,50f7851b-6ad6-4f0e-b05b-deb0cbe949e3
+-12907861.65,4015294.161,51,JOTR,Joshua Tree National Park,CA,PW,277261,National Park,Lands,Joshua Tree,e0c2d200-9d2c-48fe-bd3b-f9c9b01d1c7d
+-11993974,4661603.524,67,BLCA,Black Canyon of the Gunnison National Park,CO,IM,203271,National Park,Lands,Black Canyon of the Gunnison,49240abe-ced8-431c-974b-bd9192952043
+-10038280.83,4667878.192,72,JEFF,Gateway Arch National Park,MO,MW,765817,National Park,Lands,Gateway Arch,839f181c-8b79-4ca1-ac2a-d19aa3e95e68
+-12313988.37,3785741.543,73,SAGU,Saguaro National Park,AZ,IM,10683,National Park,Lands,Saguaro,c5eb5138-f04b-48c2-84fb-5d2171634b7a
+-13488958.85,4366231.792,76,PINN,Pinnacles National Park,CA,PW,247533,National Park,Lands,Pinnacles,45c6955f-b924-4f6b-a3ad-8afb1edbc94e
+-13595928.67,5303615.036,81,CRLA,Crater Lake National Park,OR,PW,1163670,National Park,Lands,Crater Lake,e7f9ec6e-8b75-4bc4-88a9-e3a2376c4fdc
+-11517447.59,5934855.668,82,THRO,Theodore Roosevelt National Park,ND,MW,1033824,National Park,Lands,Theodore Roosevelt,3b319f27-974c-4505-bbcf-c5c7a4cdb07f
+-13508627.91,6245790.444,88,NOCA,North Cascades National Park,WA,PW,1528421,National Park,Lands,North Cascades,0329b2c1-9bac-4b84-b905-dbaf9f0d93ba
+-11644158.38,3779082.424,90,CAVE,Carlsbad Caverns National Park,NM,IM,904780,National Park,Lands,Carlsbad Caverns,db795562-5401-448c-a023-b6642acbaeef
+-12372352.56,4603555.125,91,CARE,Capitol Reef National Park,UT,IM,1434866,National Park,Lands,Capitol Reef,d9ad8fa7-edcf-4794-bc10-4f866174057c
+-10339971.94,6184680.566,93,VOYA,Voyageurs National Park,MN,MW,660491,National Park,Lands,Voyageurs,2ba06489-c679-4cad-923f-5c1b0d1411c5
+-11487512.92,3418204.867,95,BIBE,Big Bend National Park,TX,IM,1377082,National Park,Lands,Big Bend,2640e64b-b9a4-458b-9554-76abab66bd60
+-12073223.88,4474505.714,96,MEVE,Mesa Verde National Park,CO,IM,179042,National Park,Lands,Mesa Verde,16d62ca3-b919-4112-88b0-9af5a33aaa19
+-12226182.19,4618543.606,97,CANY,Canyonlands National Park,UT,IM,1448008,National Park,Lands,Canyonlands,f27a17f8-eee9-4c8a-b0d7-40eb8fd55137
+-12488446.02,4518970.587,98,BRCA,Bryce Canyon National Park,UT,IM,1450197,National Park,Lands,Bryce Canyon,a72d95d7-e4c5-41f5-af1b-e1b8801dadbd
+-17380596.17,2356074.776,105,HALE,Haleakala National Park,HI,PW,358382,National Park,Lands,Haleakala,745f5fd9-e7ca-4c70-92ae-c12beccba084
+-17281187.1,2190652.74,107,HAVO,Hawai'i Volcanoes National Park,HI,PW,365210,National Park,Lands,Hawaii Volcanoes,03adb5b9-593a-4cee-9519-3af9dd6dc38d
+-9011851.698,2910494.396,113,EVER,Everglades National Park,FL,SE,293666,National Park,Lands,Everglades,5a49b1e7-3633-41e7-9023-23b889104aa7
+-13039831.86,4378898.246,128,DEVA,Death Valley National Park,CA,PW,857501,National Park,Lands,Death Valley,95a4d73c-7680-4f29-81b7-9f7b652ef416
+-12717613.77,4711247.583,134,GRBA,Great Basin National Park,NV,PW,862430,National Park,Lands,Great Basin,e6582526-ff08-4127-b76d-7f5c62209bad
+-13198082.12,4369137.645,138,SEQU,Sequoia National Park,CA,PW,266000,National Park,Lands,Sequoia,951b80e6-5a31-4228-864b-30c09b32febf
+-17263764.84,8075321.315,169,KATM,Katmai National Park,AK,AK,1416045,National Park,Lands,Katmai,509c4d01-9226-40c7-b721-3cd3c0fca004
+-12196744.28,4678715.663,173,ARCH,Arches National Park,UT,IM,1455716,National Park,Lands,Arches,1f6bc63f-504a-4ead-8422-7c989ef5e367
+-16725374.07,8357378.651,186,KEFJ,Kenai Fjords National Park,AK,AK,1419645,National Park,Lands,Kenai Fjords,0bf66718-b3df-459a-8a9d-c257263cc639
+-12299701.13,5556116.599,188,YELL,Yellowstone National Park,WY,IM,1609331,National Park,Lands,Yellowstone,4b2dba52-9e23-4408-a7b8-6d2369038735
+-7211677.203,2079117.819,193,VIIS,Virgin Islands National Park,VI,SE,1614406,National Park,Lands,Virgin Islands,38cf058f-e0dc-4ab9-8451-82b3f27502b8
+-11398442.94,5439799.871,195,BADL,Badlands National Park,SD,MW,1265096,National Park,Lands,Badlands,e0637b20-129a-4033-8817-fcf7e4d7b14b
+-13548299.35,5918381.921,203,MORA,Mount Rainier National Park,WA,PW,1528416,National Park,Lands,Mount Rainier,7cd934ed-8365-4b96-ad4b-cf0ced86fd08
+-13201807.34,4421690.351,214,KICA,Kings Canyon National Park,CA,PW,255948,National Park,Lands,Kings Canyon,c6452282-9f80-48c6-9849-79342b4a595e
+-9587168.391,4464785.981,224,MACA,Mammoth Cave National Park,KY,SE,507318,National Park,Lands,Mammoth Cave,1cf6ba65-11ce-4de3-aa54-a43ee9f05279
+-15236201.61,8143176.202,240,GLBA,Glacier Bay National Park,AK,AK,1416041,National Park,Lands,Glacier Bay,68e2abe1-0f43-484f-afc8-ca9140b305a2
+-10356049.09,4100079.932,252,HOSP,Hot Springs National Park,AR,MW,56796,National Park,Lands,Hot Springs,8b7630a3-be41-4b5f-8d56-bb411811bb49
+-11756786.85,4546548.237,258,GRSA,Great Sand Dunes National Park,CO,IM,2733443,National Park,Lands,Great Sand Dunes,7f7ff611-5bc8-43d1-a44d-c64ac20a765a
+-17061925.17,10376709.59,259,GAAR,Gates of the Arctic National Park,AK,AK,1416040,National Park,Lands,Gates of the Arctic,a6b0718d-fcea-4e15-88a8-0555052872b9
+-17706760.26,10269859.48,261,KOVA,Kobuk Valley National Park,AK,AK,1416046,National Park,Lands,Kobuk Valley,9b977338-0683-4284-b5bf-0446e02d5f29
+-16015196.91,8675714.601,262,WRST,Wrangell-St. Elias National Park,AK,AK,1416055,National Park,Lands,Wrangell - St Elias,29f02547-d6a6-48c3-8a7e-8fb7e910fb51
+-8929860.784,2933547.13,276,BISC,Biscayne National Park,FL,SE,294450,National Park,Lands,Biscayne,5d3ead41-961a-4ae7-ad59-c1616f2205e6
+-18862957.97,-1602777.924,281,NPSA,National Park of American Samoa,AS,PW,1966567,National Park,Lands,National Park of American Samoa,0bd3b07c-5b4d-46b8-b31e-3f83f823cca9
+-11836151.06,3864122.148,287,WHSA,White Sands National Park,NM,IM,914261,National Park,Lands,White Sands,69ee1ca0-2213-4f57-943d-54a33ce5dd01
+-11677504.2,3751090.384,301,GUMO,Guadalupe Mountains National Park,TX,IM,1377201,National Park,Lands,Guadalupe Mountains,d0a6e620-8f2b-4d1d-859c-9bd2c48798f7
+-13514702.99,4938449.778,313,LAVO,Lassen Volcanic National Park,CA,PW,262325,National Park,Lands,Lassen Volcanic,a8fc7507-a851-4520-a67b-c85d673fede8
+-9688379.332,5110134.774,337,INDU,Indiana Dunes National Park,IN,MW,446903,National Park,Lands,Indiana Dunes,09e95935-86a7-431c-8547-397b864b5299
+-17061033.45,8531961.627,341,LACL,Lake Clark National Park,AK,AK,1416049,National Park,Lands,Lake Clark,9b6fcd2f-38d4-4ef7-8b9a-77e57d31e3e9
+-12584192.89,4478140.894,344,ZION,Zion National Park,UT,IM,1455157,National Park,Lands,Zion,fab81586-040d-447a-80ac-7fda08b1268b
+-12321463.17,5438600.845,360,GRTE,Grand Teton National Park,WY,IM,1597571,National Park,Lands,Grand Teton,e8c0acaf-0683-43d7-9bcf-bf75da50ca55
+-13307290.04,4556915.199,361,YOSE,Yosemite National Park,CA,PW,255923,National Park,Lands,Yosemite,4f498083-31e9-436a-9a99-882cd6d23e5f
+-13329385.79,4031291.642,362,CHIS,Channel Islands National Park,CA,PW,1662323,National Park,Lands,Channel Islands,1f8f6df0-dba3-49ae-985a-58ef6c7855a1
+-12663291.45,6210435.021,369,GLAC,Glacier National Park,MT,IM,1803454,National Park,Lands,Glacier,0e87149c-45c5-412b-9524-5ee0bbf6e868
+-12219836.24,4154516.569,372,PEFO,Petrified Forest National Park,AZ,IM,23864,National Park,Lands,Petrified Forest,8bbcfbe4-1a8d-4759-939d-5df7891e31d3
+-11513639.86,5399956.141,380,WICA,Wind Cave National Park,SD,MW,1263056,National Park,Lands,Wind Cave,e3f7ac38-45e3-42ee-93f3-c53b477ab839
+-16765045.6,9180708.953,381,DENA,Denali National Park,AK,AK,2760439,National Park,Lands,Denali,661451d2-7c79-4f7c-b3ca-622c7ccd2300
+-13751770.77,6071450.497,398,OLYM,Olympic National Park,WA,PW,1530459,National Park,Lands,Olympic,9777e885-0b0b-40a6-9e6e-b662cada993c
+-13804059.06,5051788.002,402,REDW,Redwood National Park,CA,PW,277109,National Park,Lands,Redwood,9d0a0999-d69b-4649-8c4d-d9448c5b91e8
+-8734453.514,4646498.851,403,SHEN,Shenandoah National Park,VA,NE,1488805,National Park,Lands,Shenandoah,887890ad-7d1f-4c87-93be-b9d5785f395d
+-7597050.378,5517888.408,404,ACAD,Acadia National Park,ME,NE,578853,National Park,Lands,Acadia,0f4ea678-1ebb-48e3-9254-cee62d765950
+-9294965.962,4248754.269,417,GRSM,Great Smoky Mountains National Park,NC,SE,1018241,National Park,Lands,Great Smoky Mountains,efef1a1b-c04f-4da9-aee7-279fae67c926
+-9885921.518,6112022.798,423,ISRO,Isle Royale National Park,MI,MW,1616980,National Park,Lands,Isle Royale,f2ed758d-fc1a-4be3-b692-b05301dc735f
+-9021658.566,4564881.846,418,NERI,New River Gorge National Park and Preserve,VA,NE,1877618,National Park,Lands,New River Gorge,67679f8c-faac-45cf-b0be-32ea91c8fe59
